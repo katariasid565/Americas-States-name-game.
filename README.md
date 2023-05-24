@@ -1,2 +1,3 @@
 # Americas-States-name-game.
-this is a short python projects working with csv files that test your geographical knowledge about america.
+This is a Python project that uses CSV files to test your knowledge of American geography.
+There are 55 states in the United States, and this effort greatly aids children in learning their names.
